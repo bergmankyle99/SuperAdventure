@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SuperAdventure
-build_property.ProjectDir = C:\Users\goodo\OneDrive\C# Game\SuperAdventure\SuperAdventure\
+build_property.ProjectDir = C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

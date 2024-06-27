@@ -20,3 +20,26 @@ C:\Users\goodo\OneDrive\C# Game\SuperAdventure\SuperAdventure\obj\Debug\net8.0-w
 C:\Users\goodo\OneDrive\C# Game\SuperAdventure\SuperAdventure\obj\Debug\net8.0-windows\ref\SuperAdventure.dll
 C:\Users\goodo\OneDrive\C# Game\SuperAdventure\SuperAdventure\obj\Debug\net8.0-windows\SuperAdventure.TradingScreen.resources
 C:\Users\goodo\OneDrive\C# Game\SuperAdventure\SuperAdventure\obj\Debug\net8.0-windows\SuperAdventure.WorldMap.resources
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\bin\Debug\net8.0-windows\SuperAdventure.exe
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\bin\Debug\net8.0-windows\SuperAdventure.deps.json
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\bin\Debug\net8.0-windows\SuperAdventure.runtimeconfig.json
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\bin\Debug\net8.0-windows\SuperAdventure.dll
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\bin\Debug\net8.0-windows\SuperAdventure.pdb
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\bin\Debug\net8.0-windows\Engine.dll
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\bin\Debug\net8.0-windows\Engine.pdb
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\obj\Debug\net8.0-windows\SuperAdventure.csproj.AssemblyReference.cache
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\obj\Debug\net8.0-windows\SuperAdventure.SuperAdventure.resources
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\obj\Debug\net8.0-windows\SuperAdventure.TradingScreen.resources
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\obj\Debug\net8.0-windows\SuperAdventure.WorldMap.resources
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\obj\Debug\net8.0-windows\SuperAdventure.csproj.GenerateResource.cache
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\obj\Debug\net8.0-windows\SuperAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\obj\Debug\net8.0-windows\SuperAdventure.AssemblyInfoInputs.cache
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\obj\Debug\net8.0-windows\SuperAdventure.AssemblyInfo.cs
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\obj\Debug\net8.0-windows\SuperAdventure.csproj.CoreCompileInputs.cache
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\obj\Debug\net8.0-windows\SuperAdventure.sourcelink.json
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\obj\Debug\net8.0-windows\SuperAdv.5A2A7CD7.Up2Date
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\obj\Debug\net8.0-windows\SuperAdventure.dll
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\obj\Debug\net8.0-windows\refint\SuperAdventure.dll
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\obj\Debug\net8.0-windows\SuperAdventure.pdb
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\obj\Debug\net8.0-windows\SuperAdventure.genruntimeconfig.cache
+C:\Users\goodo\OneDrive\SuperAdventure\SuperAdventure\obj\Debug\net8.0-windows\ref\SuperAdventure.dll

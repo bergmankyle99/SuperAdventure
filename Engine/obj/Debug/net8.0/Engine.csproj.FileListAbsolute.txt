@@ -9,3 +9,15 @@ C:\Users\goodo\OneDrive\C# Game\SuperAdventure\Engine\obj\Debug\net8.0\Engine.dl
 C:\Users\goodo\OneDrive\C# Game\SuperAdventure\Engine\obj\Debug\net8.0\refint\Engine.dll
 C:\Users\goodo\OneDrive\C# Game\SuperAdventure\Engine\obj\Debug\net8.0\Engine.pdb
 C:\Users\goodo\OneDrive\C# Game\SuperAdventure\Engine\obj\Debug\net8.0\ref\Engine.dll
+C:\Users\goodo\OneDrive\SuperAdventure\Engine\bin\Debug\net8.0\Engine.deps.json
+C:\Users\goodo\OneDrive\SuperAdventure\Engine\bin\Debug\net8.0\Engine.dll
+C:\Users\goodo\OneDrive\SuperAdventure\Engine\bin\Debug\net8.0\Engine.pdb
+C:\Users\goodo\OneDrive\SuperAdventure\Engine\obj\Debug\net8.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goodo\OneDrive\SuperAdventure\Engine\obj\Debug\net8.0\Engine.AssemblyInfoInputs.cache
+C:\Users\goodo\OneDrive\SuperAdventure\Engine\obj\Debug\net8.0\Engine.AssemblyInfo.cs
+C:\Users\goodo\OneDrive\SuperAdventure\Engine\obj\Debug\net8.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\goodo\OneDrive\SuperAdventure\Engine\obj\Debug\net8.0\Engine.sourcelink.json
+C:\Users\goodo\OneDrive\SuperAdventure\Engine\obj\Debug\net8.0\Engine.dll
+C:\Users\goodo\OneDrive\SuperAdventure\Engine\obj\Debug\net8.0\refint\Engine.dll
+C:\Users\goodo\OneDrive\SuperAdventure\Engine\obj\Debug\net8.0\Engine.pdb
+C:\Users\goodo\OneDrive\SuperAdventure\Engine\obj\Debug\net8.0\ref\Engine.dll

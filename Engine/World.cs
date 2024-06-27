@@ -19,11 +19,13 @@ namespace Engine
         public const int ITEM_ID_SPIDER_FANG = 8;
         public const int ITEM_ID_SPIDER_SILK = 9;
         public const int ITEM_ID_ADVENTURER_PASS = 10;
+        public const int ITEM_ID_IRON_SWORD = 11;
         public const int MONSTER_ID_RAT = 1;
         public const int MONSTER_ID_SNAKE = 2;
         public const int MONSTER_ID_GIANT_SPIDER = 3;
         public const int QUEST_ID_CLEAR_ALCHEMIST_GARDEN = 1;
         public const int QUEST_ID_CLEAR_FARMERS_FIELD = 2;
+        public const int QUEST_ID_CLEAR_SPIDER_FIELD = 3;
         public const int LOCATION_ID_HOME = 1;
         public const int LOCATION_ID_TOWN_SQUARE = 2;
         public const int LOCATION_ID_GUARD_POST = 3;
@@ -43,6 +45,7 @@ namespace Engine
         private static void PopulateItems()
         {
             _items.Add(new Weapon(ITEM_ID_RUSTY_SWORD, "Rusty sword", "Rusty swords", 0, 5, 5));
+            _items.Add(new Weapon(ITEM_ID_IRON_SWORD, "Iron sword", "Iron swords", 5, 15, 15));
             _items.Add(new Item(ITEM_ID_RAT_TAIL, "Rat tail", "Rat tails", 1));
             _items.Add(new Item(ITEM_ID_PIECE_OF_FUR, "Piece of fur", "Pieces of fur", 1));
             _items.Add(new Item(ITEM_ID_SNAKE_FANG, "Snake fang", "Snake fangs", 1));
@@ -84,8 +87,17 @@ namespace Engine
                     "Kill snakes in the farmer's field and bring back 3 snake fangs. You will receive an adventurer's pass and 20 gold pieces.", 20, 20);
             clearFarmersField.QuestCompletionItems.Add(new QuestCompletionItem(ItemByID(ITEM_ID_SNAKE_FANG), 3));
             clearFarmersField.RewardItem = ItemByID(ITEM_ID_ADVENTURER_PASS);
+            Quest clearSpiderField =
+                new Quest(
+                    QUEST_ID_CLEAR_SPIDER_FIELD,
+                    "Clear the spider's field",
+                    "Kill spiders in the spider's field and bring back 3 spider fangs and 3 spider silk. You will receive an Iron sword and 30 gold pieces.", 30, 30);
+            clearSpiderField.QuestCompletionItems.Add(new QuestCompletionItem(ItemByID(ITEM_ID_SPIDER_FANG), 3));
+            clearSpiderField.QuestCompletionItems.Add(new QuestCompletionItem(ItemByID(ITEM_ID_SPIDER_SILK), 3));
+            clearSpiderField.RewardItem = ItemByID(ITEM_ID_IRON_SWORD);
             _quests.Add(clearAlchemistGarden);
             _quests.Add(clearFarmersField);
+            _quests.Add(clearSpiderField);
         }
         private static void PopulateLocations()
         {
@@ -98,6 +110,9 @@ namespace Engine
             townSquare.VendorWorkingHere = bobTheRatCatcher;
             Location alchemistHut = new Location(LOCATION_ID_ALCHEMIST_HUT, "Alchemist's hut", "There are many strange plants on the shelves.");
             alchemistHut.QuestAvailableHere = QuestByID(QUEST_ID_CLEAR_ALCHEMIST_GARDEN);
+            Vendor corpiusTheBrewer = new Vendor("Corpius the Brewer");
+            corpiusTheBrewer.AddItemToInventory(ItemByID(ITEM_ID_HEALING_POTION), 5);
+            alchemistHut.VendorWorkingHere = corpiusTheBrewer;
             Location alchemistsGarden = new Location(LOCATION_ID_ALCHEMISTS_GARDEN, "Alchemist's garden", "Many plants are growing here.");
             alchemistsGarden.AddMonster(MONSTER_ID_RAT, 100);
             Location farmhouse = new Location(LOCATION_ID_FARMHOUSE, "Farmhouse", "There is a small farmhouse, with a farmer in front.");
@@ -106,6 +121,7 @@ namespace Engine
             farmersField.AddMonster(MONSTER_ID_SNAKE, 50);
             farmersField.AddMonster(MONSTER_ID_RAT, 50);
             Location guardPost = new Location(LOCATION_ID_GUARD_POST, "Guard post", "There is a large, tough-looking guard here.", ItemByID(ITEM_ID_ADVENTURER_PASS));
+            guardPost.QuestAvailableHere = QuestByID(QUEST_ID_CLEAR_SPIDER_FIELD);
             Location bridge = new Location(LOCATION_ID_BRIDGE, "Bridge", "A stone bridge crosses a wide river.");
             Location spiderField = new Location(LOCATION_ID_SPIDER_FIELD, "Forest", "You see spider webs covering covering the trees in this forest.");
             spiderField.AddMonster(MONSTER_ID_GIANT_SPIDER, 100);

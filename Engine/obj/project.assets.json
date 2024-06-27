@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\Engine.csproj",
+      "projectUniqueName": "C:\\Users\\goodo\\OneDrive\\SuperAdventure\\Engine\\Engine.csproj",
       "projectName": "Engine",
-      "projectPath": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\Engine.csproj",
+      "projectPath": "C:\\Users\\goodo\\OneDrive\\SuperAdventure\\Engine\\Engine.csproj",
       "packagesPath": "C:\\Users\\goodo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\obj\\",
+      "outputPath": "C:\\Users\\goodo\\OneDrive\\SuperAdventure\\Engine\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\goodo\\AppData\\Roaming\\NuGet\\NuGet.Config",

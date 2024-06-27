@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\SuperAdventure\\SuperAdventure.csproj",
+      "projectUniqueName": "C:\\Users\\goodo\\OneDrive\\SuperAdventure\\SuperAdventure\\SuperAdventure.csproj",
       "projectName": "SuperAdventure",
-      "projectPath": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\SuperAdventure\\SuperAdventure.csproj",
+      "projectPath": "C:\\Users\\goodo\\OneDrive\\SuperAdventure\\SuperAdventure\\SuperAdventure.csproj",
       "packagesPath": "C:\\Users\\goodo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\SuperAdventure\\obj\\",
+      "outputPath": "C:\\Users\\goodo\\OneDrive\\SuperAdventure\\SuperAdventure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\goodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\Engine.csproj": {
-              "projectPath": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\Engine.csproj"
+            "C:\\Users\\goodo\\OneDrive\\SuperAdventure\\Engine\\Engine.csproj": {
+              "projectPath": "C:\\Users\\goodo\\OneDrive\\SuperAdventure\\Engine\\Engine.csproj"
             }
           }
         }
