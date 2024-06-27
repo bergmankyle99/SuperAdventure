@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7A30BD-F269-445D-9642-A7EA35123E96}|SuperAdventure\\SuperAdventure.csproj|c:\\users\\goodo\\onedrive\\c# game\\superadventure\\superadventure\\worldmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7A30BD-F269-445D-9642-A7EA35123E96}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\worldmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|c:\\users\\goodo\\onedrive\\c# game\\superadventure\\engine\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|solutionrelative:engine\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7A30BD-F269-445D-9642-A7EA35123E96}|SuperAdventure\\SuperAdventure.csproj|c:\\users\\goodo\\onedrive\\c# game\\superadventure\\superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7A30BD-F269-445D-9642-A7EA35123E96}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7A30BD-F269-445D-9642-A7EA35123E96}|SuperAdventure\\SuperAdventure.csproj|C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\superadventure\\worldmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED7A30BD-F269-445D-9642-A7EA35123E96}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\worldmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7A30BD-F269-445D-9642-A7EA35123E96}|SuperAdventure\\SuperAdventure.csproj|C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED7A30BD-F269-445D-9642-A7EA35123E96}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7A30BD-F269-445D-9642-A7EA35123E96}|SuperAdventure\\SuperAdventure.csproj|c:\\users\\goodo\\onedrive\\c# game\\superadventure\\superadventure\\worldmap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7A30BD-F269-445D-9642-A7EA35123E96}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\worldmap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|c:\\users\\goodo\\onedrive\\c# game\\superadventure\\engine\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|solutionrelative:engine\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|c:\\users\\goodo\\onedrive\\c# game\\superadventure\\engine\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|solutionrelative:engine\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7A30BD-F269-445D-9642-A7EA35123E96}|SuperAdventure\\SuperAdventure.csproj|c:\\users\\goodo\\onedrive\\c# game\\superadventure\\superadventure\\tradingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7A30BD-F269-445D-9642-A7EA35123E96}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\tradingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|c:\\users\\goodo\\onedrive\\c# game\\superadventure\\engine\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|solutionrelative:engine\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|c:\\users\\goodo\\onedrive\\c# game\\superadventure\\engine\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|solutionrelative:engine\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7A30BD-F269-445D-9642-A7EA35123E96}|SuperAdventure\\SuperAdventure.csproj|C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\superadventure\\tradingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED7A30BD-F269-445D-9642-A7EA35123E96}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\tradingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|c:\\users\\goodo\\onedrive\\c# game\\superadventure\\engine\\randomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|solutionrelative:engine\\randomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7A30BD-F269-445D-9642-A7EA35123E96}|SuperAdventure\\SuperAdventure.csproj|c:\\users\\goodo\\onedrive\\c# game\\superadventure\\superadventure\\superadventure.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7A30BD-F269-445D-9642-A7EA35123E96}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\superadventure.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|c:\\users\\goodo\\onedrive\\c# game\\superadventure\\engine\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|solutionrelative:engine\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|c:\\users\\goodo\\onedrive\\c# game\\superadventure\\engine\\healingpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|solutionrelative:engine\\healingpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|c:\\users\\goodo\\onedrive\\c# game\\superadventure\\engine\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|solutionrelative:engine\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|c:\\users\\goodo\\onedrive\\c# game\\superadventure\\engine\\livingcreature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|solutionrelative:engine\\livingcreature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|c:\\users\\goodo\\onedrive\\c# game\\superadventure\\engine\\messageeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|solutionrelative:engine\\messageeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|c:\\users\\goodo\\onedrive\\c# game\\superadventure\\engine\\playerquest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C0DF62-C4A5-4520-BA0F-961687C2EE61}|Engine\\Engine.csproj|solutionrelative:engine\\playerquest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorldMap.cs",
+              "DocumentMoniker": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\SuperAdventure\\WorldMap.cs",
+              "RelativeDocumentMoniker": "SuperAdventure\\WorldMap.cs",
+              "ToolTip": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\SuperAdventure\\WorldMap.cs",
+              "RelativeToolTip": "SuperAdventure\\WorldMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T20:03:44.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorldMap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\SuperAdventure\\WorldMap.cs",
+              "RelativeDocumentMoniker": "SuperAdventure\\WorldMap.cs",
+              "ToolTip": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\SuperAdventure\\WorldMap.cs [Design]",
+              "RelativeToolTip": "SuperAdventure\\WorldMap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:51:17.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuperAdventure.cs",
+              "DocumentMoniker": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs",
+              "RelativeDocumentMoniker": "SuperAdventure\\SuperAdventure.cs",
+              "ToolTip": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs",
+              "RelativeToolTip": "SuperAdventure\\SuperAdventure.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAMwA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:17:50.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HealingPotion.cs",
+              "DocumentMoniker": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\HealingPotion.cs",
+              "RelativeDocumentMoniker": "Engine\\HealingPotion.cs",
+              "ToolTip": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\HealingPotion.cs",
+              "RelativeToolTip": "Engine\\HealingPotion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:46:13.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\Vendor.cs",
+              "RelativeDocumentMoniker": "Engine\\Vendor.cs",
+              "ToolTip": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\Vendor.cs",
+              "RelativeToolTip": "Engine\\Vendor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:40:54.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TradingScreen.cs",
+              "DocumentMoniker": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\SuperAdventure\\TradingScreen.cs",
+              "RelativeDocumentMoniker": "SuperAdventure\\TradingScreen.cs",
+              "ToolTip": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\SuperAdventure\\TradingScreen.cs",
+              "RelativeToolTip": "SuperAdventure\\TradingScreen.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAADwv4sAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:14:09.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\Location.cs",
+              "RelativeDocumentMoniker": "Engine\\Location.cs",
+              "ToolTip": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\Location.cs",
+              "RelativeToolTip": "Engine\\Location.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA4wEQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:46:51.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "World.cs",
+              "DocumentMoniker": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\World.cs",
+              "RelativeDocumentMoniker": "Engine\\World.cs",
+              "ToolTip": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\World.cs",
+              "RelativeToolTip": "Engine\\World.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAApwGoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:48:32.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\Player.cs",
+              "RelativeDocumentMoniker": "Engine\\Player.cs",
+              "ToolTip": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\Player.cs",
+              "RelativeToolTip": "Engine\\Player.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAewEIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:47:11.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorldMap.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\SuperAdventure\\WorldMap.Designer.cs",
+              "RelativeDocumentMoniker": "SuperAdventure\\WorldMap.Designer.cs",
+              "ToolTip": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\SuperAdventure\\WorldMap.Designer.cs",
+              "RelativeToolTip": "SuperAdventure\\WorldMap.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:51:22.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SuperAdventure.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs",
+              "RelativeDocumentMoniker": "SuperAdventure\\SuperAdventure.cs",
+              "ToolTip": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs [Design]",
+              "RelativeToolTip": "SuperAdventure\\SuperAdventure.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:05:58.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LivingCreature.cs",
+              "DocumentMoniker": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\LivingCreature.cs",
+              "RelativeDocumentMoniker": "Engine\\LivingCreature.cs",
+              "ToolTip": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\LivingCreature.cs",
+              "RelativeToolTip": "Engine\\LivingCreature.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswBwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:18:28.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "Engine\\InventoryItem.cs",
+              "ToolTip": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\InventoryItem.cs",
+              "RelativeToolTip": "Engine\\InventoryItem.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:33:38.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\Item.cs",
+              "RelativeDocumentMoniker": "Engine\\Item.cs",
+              "ToolTip": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\Item.cs",
+              "RelativeToolTip": "Engine\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:44:48.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TradingScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\SuperAdventure\\TradingScreen.cs",
+              "RelativeDocumentMoniker": "SuperAdventure\\TradingScreen.cs",
+              "ToolTip": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\SuperAdventure\\TradingScreen.cs [Design]",
+              "RelativeToolTip": "SuperAdventure\\TradingScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:09:04.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RandomNumberGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\RandomNumberGenerator.cs",
+              "RelativeDocumentMoniker": "Engine\\RandomNumberGenerator.cs",
+              "ToolTip": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\RandomNumberGenerator.cs",
+              "RelativeToolTip": "Engine\\RandomNumberGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:28:17.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SuperAdventure.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\SuperAdventure\\SuperAdventure.Designer.cs",
+              "RelativeDocumentMoniker": "SuperAdventure\\SuperAdventure.Designer.cs",
+              "ToolTip": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\SuperAdventure\\SuperAdventure.Designer.cs",
+              "RelativeToolTip": "SuperAdventure\\SuperAdventure.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:55:39.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\Weapon.cs",
+              "RelativeDocumentMoniker": "Engine\\Weapon.cs",
+              "ToolTip": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\Weapon.cs",
+              "RelativeToolTip": "Engine\\Weapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:46:42.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MessageEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\MessageEventArgs.cs",
+              "RelativeDocumentMoniker": "Engine\\MessageEventArgs.cs",
+              "ToolTip": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\MessageEventArgs.cs",
+              "RelativeToolTip": "Engine\\MessageEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T23:56:51.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlayerQuest.cs",
+              "DocumentMoniker": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\PlayerQuest.cs",
+              "RelativeDocumentMoniker": "Engine\\PlayerQuest.cs",
+              "ToolTip": "C:\\Users\\goodo\\OneDrive\\C# Game\\SuperAdventure\\Engine\\PlayerQuest.cs",
+              "RelativeToolTip": "Engine\\PlayerQuest.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:42:59.664Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
